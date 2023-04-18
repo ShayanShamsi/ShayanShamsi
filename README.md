@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-## 🔭 My name is Shayan and I’m an IBM certified Data Analyst
+## 🔭 My name is Shayan and I’m a Web Developer at Scandiweb
 
 ## ⚡ I am also an aspiring Machine Learning Engineer
 
 ## 🌱 I’m currently pursuing a BSCS degree at IBA, Karachi (Batch of 2025)
-
-### 👯 I’m maintaining a repo called 'DataScienceLearning' which in an open-source project to provide people with free material to learn data science. Please visit the repository to learn how to contribute.
 
 ### 📫 Connect with me on LinkedIn! linkedin.com/in/muhammad-shayan-shamsi/  
 
