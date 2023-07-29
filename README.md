@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🔭 My name is Shayan and I’m a Web Developer at Scandiweb
+## 🔭 My name is Shayan
 
 ## ⚡ I am also an aspiring Machine Learning Engineer
 
