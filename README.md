@@ -2,7 +2,7 @@
 
 ## 🔭 My name is Shayan
 
-## ⚡ I am also an aspiring Machine Learning Engineer
+## ⚡ I am also an aspiring Smart Contract Security Researcher
 
 ## 🌱 I’m currently pursuing a BSCS degree at IBA, Karachi (Batch of 2025)
 
