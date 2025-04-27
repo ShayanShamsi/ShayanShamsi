@@ -1,24 +1,42 @@
-### Hi there 👋
+# Hi there, I'm Shayan 👋
 
-## 🔭 My name is Shayan
+## Aspiring AI Safety Researcher
 
-## ⚡ I am an enthusiastic individual and an aspiring software engineer
+I'm passionate about ensuring advanced AI systems are developed safely, robustly, and aligned with human values. Currently focusing on building my knowledge and skills in this critical field.
 
-## 🌱 I’m currently pursuing a BSCS degree at IBA, Karachi (Batch of 2025)
+### 🔬 Research Interests
 
-### 📫 Connect with me on LinkedIn! linkedin.com/in/muhammad-shayan-shamsi/  
+- **AI Alignment**: Working to ensure AI systems reliably pursue intended goals
+- **Interpretability**: Making AI systems more transparent and understandable
+- **Robustness**: Building systems that perform reliably under distribution shifts
+- **Value Learning**: Developing techniques to learn and respect human preferences
+- **AI Governance**: Exploring policy frameworks for responsible AI development
 
-<!--
-**ShayanShamsi/ShayanShamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I'm currently learning
 
-Here are some ideas to get you started:
+- Deep reinforcement learning from human feedback (RLHF)
+- Causal interpretability methods
+- Mechanistic interpretability techniques
+- Formal verification approaches for neural networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Background
+
+- Bachelor of Science, Computer Science
+- Summer 2024 Research Intern @ SprintML lab, CISPA
+- Research Fellow @ Fatima Fellowship
+
+### 📫 Connect with me
+
+- [Twitter/X](https://x.com/ShayanShamsi11)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-shayan-shamsi/)
+- Email: shayans210@gmail.com
+
+### 📖 Recommended Reading
+
+If you're interested in AI safety, check out these resources:
+- [Center for AI Safety](https://www.safe.ai/)
+- [AI Alignment Forum](https://alignmentforum.org/)
+
+---
+
+> "The development of full artificial intelligence could spell the end of the human race... or it could be the best thing that ever happened to us. We just have to be sure it's the latter." — Stephen Hawking
